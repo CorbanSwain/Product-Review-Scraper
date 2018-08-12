@@ -1,0 +1,6 @@
+# ignore everything ...
+*
+
+# ... except .gitignore and the test links
+!.gitignore
+!test_links.txt
